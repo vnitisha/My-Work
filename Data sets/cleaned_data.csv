@@ -1,0 +1,11 @@
+Customer_ID,Age,Gender,City,Product_Category,Purchase_Amount,Purchase_Date
+1,25,Female,New York,Electronics,250,2023-01-15
+2,40,Male,Los Angeles,Clothing,100,2023-03-12
+3,34,Female,Chicago,Groceries,75,2023-05-08
+4,28,Male,Houston,Electronics,500,2023-02-20
+5,45,Female,Phoenix,Clothing,150,2023-04-25
+6,50,Male,New York,Home & Kitchen,300,2023-06-30
+7,30,Female,Los Angeles,Electronics,450,2023-01-10
+8,22,Male,Chicago,Groceries,60,2023-03-05
+9,38,Female,Houston,Home & Kitchen,200,2023-05-18
+10,29,Male,Phoenix,Clothing,120,2023-02-14
